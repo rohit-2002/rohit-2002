@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **rohit-2002/rohit-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi! I'm Rohit Baba, a passionate Software Developer with a strong interest in Blockchain, Machine Learning, and Web Development. With a background in Computer Engineering, I have hands-on experience with technologies like React, Node.js, Python, and SQL. I am constantly learning new tools and frameworks to build innovative and efficient solutions. My goal is to leverage my skills to create impactful applications that make a difference.
+Hi, I'm Rohit Baba 👋! I'm a passionate Software Developer with a strong interest in Data Science, Machine Learning, and Web Development. With a background in Computer Engineering, I have hands-on experience with technologies like React, Node.js, Python, and SQL. I am constantly learning new tools and frameworks to build innovative and efficient solutions. My goal is to leverage my skills to create impactful applications that make a difference.
 
 ![snake gif](https://raw.githubusercontent.com/rohit-2002/rohit-2002/output/github-snake-dark.svg)
 # 💻 Tech Stack:
